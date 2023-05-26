@@ -10,7 +10,6 @@ import Footer from "./Components/Footer";
 import ContextMenuComponent from "./Components/ContextMenuComponent";
 import { Button } from "primereact/button";
 import TabMenuComponent from "./Components/TabMenuComponent";
-import { InputText } from "primereact/inputtext";
 
 function App() {
   return (
