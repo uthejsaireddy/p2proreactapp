@@ -1,0 +1,66 @@
+.w-full {
+    width: 40% !important;
+    margin-left: -25cm;
+}
+
+.MegaMenu{
+    width : 40%
+}
+
+.mr5{
+    margin-right : 5px
+}
+
+.w-full {
+    width: 80% !important;
+    margin-left: 0cm;
+    border-radius: 22px;
+}
+
+.card {
+    background: var(--surface-card);
+    padding: 1rem;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+    margin-right: 5px;
+}
+
+.inlinFlx {
+    display: inline-flex;
+}
+
+.width100 {
+    width: 100%;
+}
+
+.width25 {
+    width : 25%;
+}
+
+.ft22 {
+    font-size: 22px;
+}
+
+.width50 {
+    width: 50%;
+}
+
+.h42 {
+    height : 42px;
+}
+
+.p-megamenu-horizontal .p-megamenu-root-list {
+    display: flex;
+    align-items: center;
+    height: 26px;
+}
+
+.fr {
+    float : right;
+}
+
+/* .column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  } */
