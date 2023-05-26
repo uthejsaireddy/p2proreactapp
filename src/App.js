@@ -29,6 +29,10 @@ function App() {
           Learn React
         </a> 
       </header> */}
+
+        <label className="mt9">
+          <b className="mr5">P2E PRO</b>
+        </label>
         <SearchBar className="width50" />
         <MainMen />
       </div>
